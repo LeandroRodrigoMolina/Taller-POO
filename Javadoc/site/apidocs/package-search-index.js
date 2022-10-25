@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.taller.poo"},{"l":"enumeraciones"},{"l":"excepciones"},{"l":"gestion.datos"},{"l":"gestion.inventario"},{"l":"gestion.personas"},{"l":"interfaz"}];updateSearchResults();
