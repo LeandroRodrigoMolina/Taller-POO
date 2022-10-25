@@ -6,7 +6,6 @@ package gestion.datos;
 
 import excepciones.EjemplarInexistenteError;
 import excepciones.LectorNoRegistradoError;
-import excepciones.PrestamoInexistenteError;
 import gestion.inventario.Ejemplar;
 import gestion.inventario.Multa;
 import gestion.inventario.Obra;

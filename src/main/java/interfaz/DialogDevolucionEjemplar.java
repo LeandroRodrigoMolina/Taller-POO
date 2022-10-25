@@ -5,7 +5,6 @@
 package interfaz;
 
 import excepciones.EjemplarInexistenteError;
-import excepciones.PrestamoInexistenteError;
 import gestion.datos.GestionDatos;
 import gestion.inventario.Ejemplar;
 import gestion.inventario.Multa;

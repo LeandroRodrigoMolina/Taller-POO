@@ -8,7 +8,6 @@ import enumeraciones.PrestamoTipo;
 import enumeraciones.SexoTipo;
 import excepciones.EjemplarInexistenteError;
 import excepciones.LectorNoRegistradoError;
-import excepciones.PrestamoInexistenteError;
 import gestion.datos.GestionDatos;
 import interfaz.VentanaLogueo;
 import gestion.inventario.*;
