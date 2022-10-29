@@ -37,7 +37,7 @@ public class Main {
         
 //        Edicion edicion1 = new Edicion("Pearson", "Argentina", 10, 2016, 1, 526, "Español", FormatoTipo.PAPEL);
 //        Obra obra1 = new Obra(ObraTipo.LIBRO, AreaTematicaTipo.PROGRAMACION, 1, "Como Programar en Java", "", "Paul Deitel", "Harvey Deitel", "", "Informatica", CaracteristicaTipo.BOLETIN, "Programacion", 011, edicion1);
-//        Ejemplar ejemplar1 = new Ejemplar(new GregorianCalendar(23, 4, 2020), "Comprado", new Ubicacion(1, 1, 1), obra1);
+//        Ejemplar ejemplar1 = new Ejemplar(new GregorianCalendar(14,4,2019), "Comprado", new Ubicacion(1, 1, 1), obra1);
 
 //        Esto se queda para poder acordarnos la contraseñas y los usuarios
 //        Bibliotecario biblio1 = new Bibliotecario(true, "Norma", "12345");
@@ -56,7 +56,7 @@ public class Main {
 
 //        datos.agregarObra(obra1);
 //        datos.agregarLector(new Lector("Oscar", "Molina", 1, new GregorianCalendar(10, 3, 1975), "Argentina", "P.A de Maria 123", 3200, "Concordia", "3457458123", "oscar@gmail.com", SexoTipo.MASCULINO));
-
+//
 //        datos.agregarUsuario(biblio1);
 //        datos.agregarUsuario(biblio2);
 //        datos.agregarUsuario(biblio3);

@@ -13,6 +13,8 @@ public class Usuario extends Persona implements Serializable {
     private String nombreUsuario;
     private String contrasenia;
     
+    private static final long serialVersionUID = 42L;
+    
     /**
      * Construye un objeto Usuario con todos sus parametros inicializados
      * 

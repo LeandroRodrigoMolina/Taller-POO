@@ -34,7 +34,7 @@ public class Obra implements Serializable {
     private Edicion edicion;
     private List<Ejemplar> ejemplares;
 
-
+    private static final long serialVersionUID = 6969L;
     /**
      * Construye un objeto obra con los valore pasados por parametro.
      * @param tipoDeObra tipoDeObra

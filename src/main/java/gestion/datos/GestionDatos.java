@@ -26,6 +26,7 @@ import java.util.stream.Collectors;
 /**
  * Controlador utilizado para la interfaz. Encargado de la busqueda/ordenamiento de listados, como tambien su escritura/lectura en archivos.
  * @author Grupo 2
+ *
  */
 public class GestionDatos {
     private List<Usuario> listaUsuarios;

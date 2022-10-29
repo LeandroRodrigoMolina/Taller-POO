@@ -18,6 +18,7 @@ public class Lector extends Persona {
     private List<Ejemplar> listaLibros;
     private List<Multa>multas;
 
+    private static final long serialVersionUID = 500L;
     /**
      * Construye un objeto de tipo Lector con sus valores inicializados
      * 
